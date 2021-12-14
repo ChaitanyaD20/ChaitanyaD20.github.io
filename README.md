@@ -1,5 +1,5 @@
 # ChaitanyaD20.github.io
-To view my Project Portfolio, kindly open the index.html file here.
+To view my Project Portfolio, kindly open the https://chaitanyad20.github.io .
 
 Thank You
 Chaitanya Shekhar Deshpande
